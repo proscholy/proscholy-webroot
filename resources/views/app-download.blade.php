@@ -86,7 +86,3 @@
 </body>
 
 </html>
-
-<?php
-
-//header("location: https://play.google.com/store/apps/details?id=jozkar.mladez");
