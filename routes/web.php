@@ -18,3 +18,9 @@ Route::get('/', function () {
 Route::get('/app-download', function () {
     return view('app-download');
 });
+
+Route::get('/join', function () {
+    return redirect('https://join.slack.com/t/proscholy/shared_invite/zt-7e9gz6ut-_ql9cqEz73HMw6pZ4Jvitw');
+});
+
+
