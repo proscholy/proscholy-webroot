@@ -23,4 +23,8 @@ Route::get('/join', function () {
     return redirect('https://join.slack.com/t/proscholy/shared_invite/zt-kffcuuwj-Xd4FTtv7Dp2~W9hGWu_2xQ');
 });
 
+Route::get('/public', function () {
+   return view('index');
+});
+
 
