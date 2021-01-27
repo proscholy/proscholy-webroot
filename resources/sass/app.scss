@@ -1,8 +1,74 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 // Variables
-@import 'variables';
+//@import 'variables';
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+$blue: #0052CC;
+$active-blue: rgb(29, 119, 255);
+$main: #253858;
+$light: #F4F5F7;
+
+body {
+    font-family: 'Poppins', sans-serif;;
+}
+
+.navbar {
+    box-shadow: 0 0 8px grey;
+    z-index: 10;
+}
+
+.nav-link {
+    color: $blue !important;
+    font-weight: 500;
+
+    &:hover {
+        color: $active-blue !important;
+    }
+}
+
+.bg-blue-light {
+    background-color: #DEEBFF;
+}
+
+img, .widget {
+    box-shadow: 6px 30px 30px rgb(23 43 77 / 10%);
+    border-radius: 6px;
+}
+
+.btn-outline-primary {
+    color: $blue;
+    border-color: $blue;
+
+    &:hover {
+        color: white;
+        background-color: $active-blue;
+        border-color: $active-blue;
+    }
+}
+
+.link-title {
+    color: #253858;
+    font-size: 1.5rem;
+    font-weight: 500;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.card {
+    border: none;
+    //padding: 10px 20px;
+
+    &:hover {
+        box-shadow: 0 0 20px rgb(23 43 77 / 10%);
+    }
+}
+
+.bg-light{
+    background-color: $light !important;
+}

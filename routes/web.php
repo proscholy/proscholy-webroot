@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return redirect('https://zpevnik.proscholy.cz');
+//    return redirect('https://zpevnik.proscholy.cz');
+    return view('welcome');
 });
 
 Route::get('/app-download', function () {
