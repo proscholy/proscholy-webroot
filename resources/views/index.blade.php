@@ -41,11 +41,6 @@
                                     křesťanským
                                     kapelám,
                                     společenstvím a ostatním, kdo se chtějí modlit hudbou!</p>
-                                {{--                        <div class="card">--}}
-                                {{--                            <div class="card-body">--}}
-                                {{--                                <a href="//zpevnik.proscholy.cz">Zpěvník</a>--}}
-                                {{--                            </div>--}}
-                                {{--                        </div>--}}
                             </div>
                         </div>
                         <div class="col-6 col-sm text-left">
@@ -60,11 +55,6 @@
                                     sdružující
                                     křesťanské
                                     písně jak pro scholy, tak pro varhaníky.</p>
-                                {{--                        <div class="card">--}}
-                                {{--                            <div class="card-body">--}}
-                                {{--                                <a href="//regenschori.cz">Regenschori</a>--}}
-                                {{--                            </div>--}}
-                                {{--                        </div>--}}
                             </div>
                         </div>
                         <div class="col-6 col-sm text-left">
@@ -84,11 +74,6 @@
                                     sdružující
                                     křesťanské
                                     písně jak pro scholy, tak pro varhaníky.</p>
-                                {{--                        <div class="card">--}}
-                                {{--                            <div class="card-body">--}}
-                                {{--                                <a href="//proscholy.atlassian.net/servicedesk/customer/portals">Podpora pro scholy</a>--}}
-                                {{--                            </div>--}}
-                                {{--                        </div>--}}
                             </div>
                         </div>
                     </div>
