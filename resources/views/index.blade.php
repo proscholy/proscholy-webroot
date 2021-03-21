@@ -13,6 +13,10 @@
                         <span class="text-primary">služby</span> a zavazujeme se,
                         že Vám v tom budeme <span class="text-primary">pomáhat</span> jak umíme!</p>
                 </div>
+
+                <div class="col-12 col-md-5 pl-md-5">
+                    <img src="{{asset('images/scholy.svg')}}" width="100%" style="box-shadow: none">
+                </div>
             </div>
         </div>
     </section>
@@ -68,9 +72,34 @@
             </div>
         </div>
     </section>
-    {{--    <div style="height: 100px"></div>--}}
-    <section class="bg-white">
-        <div class="container mt-5">
+
+    <section class="my-5 bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Náš tým</h2>
+
+                    <p>Projekt ProScholy.cz tvoří přes 50 dobrovolníků; někteří z nás jsou leadeři schol a chválových kapel,
+                        odborníci v oblasti chrámové hudby, varhaníci, programátoři
+                        i autoři známých písní.</p>
+
+                    <p>Chceme být zázemím a pomocníkem pro všechny, kteří se chtějí modlit hudbou.
+                        Pro scholy, kapely, varhaníky, chrámové hudebníky, zpěváky, vedoucí chval i společenství.</p>
+
+                    <a class="btn btn-primary mt-2" href="https://proscholy.atlassian.net/servicedesk/customer/portal/1/group/7/create/24">Přidat se do týmu</a>
+                </div>
+
+                <div class="col-md-6">
+                    <img src="{{asset('images/tym.jpg')}}" width="100%">
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+
+    <section class="bg-light py-5">
+        <div class="container">
             <h2>Křesťanská hudba na Spotify</h2>
             <p>Pokud máte Spotify, můžete si přidat některý z playlistů, které po vás sestavujeme.</p>
 
@@ -103,31 +132,6 @@
                             allow="encrypted-media"></iframe>
                 </div>
             </div>
-
-        </div>
-    </section>
-    {{--    <div style="height: 1000px"></div>--}}
-    <section class="my-5 py-5 bg-light">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>Náš tým</h2>
-
-                    <p>Projekt ProScholy.cz tvoří přes 50 dobrovolníků; někteří z nás jsou leadeři schol a chválových kapel,
-                        odborníci v oblasti chrámové hudby, varhaníci, programátoři
-                        i autoři známých písní.</p>
-
-                    <p>Chceme být zázemím a pomocníkem pro všechny, kteří se chtějí modlit hudbou.
-                        Pro scholy, kapely, varhaníky, chrámové hudebníky, zpěváky, vedoucí chval i společenství.</p>
-
-                    <a class="btn btn-primary mt-2" href="https://proscholy.atlassian.net/servicedesk/customer/portal/1/group/7/create/24">Přidat se do týmu</a>
-                </div>
-
-                <div class="col-md-6">
-                    <img src="{{asset('images/tym.jpg')}}" width="100%">
-                </div>
-            </div>
-
 
         </div>
     </section>
