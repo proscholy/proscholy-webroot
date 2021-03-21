@@ -24,8 +24,8 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h2 class="mb-3">Co děláme?</h2>
-                    <p class="mb-5">V rámci projektu ProScholy.cz pro Vás připravujeme nové způsoby, jak zlepšit nebo si
-                        usnadnit Vaši hudební službu.</p>
+                    <p class="mb-5">Sloužit v církvi zpěvem a hudbou je náročné a spousta z nás to dělá ve volném čase.
+                        <br>Vytváříme zázemí, které může tuto důležitou službu usnadnit.</p>
 
                     <div class="row">
                         <div class="col-6 col-sm text-left">
