@@ -51,14 +51,15 @@
         </button>
         <div class="collapse navbar-collapse"
              id="navbarSupportedContent">
-{{--            <ul class="navbar-nav mb-2 mb-lg-0 mr-auto">--}}
+{{--            <ul class="navbar-nav mb-2 mb-lg-0 ml-auto">--}}
 {{--                <li class="nav-item">--}}
-{{--                    <a class="nav-link active"--}}
+{{--                    <a class="btn btn-primary"--}}
 {{--                       aria-current="page"--}}
-{{--                       href="#">Úvod</a>--}}
+{{--                       href="#">Přejít na Zpěvník</a>--}}
 {{--                </li>--}}
+
 {{--            </ul>--}}
-            <form class="mr-0 ml-auto form-inline"
+            <form class="mr-0 ml-auto form-inline small"
                   action="//zpevnik.proscholy.cz">
                 <input class="form-control me-2"
                        type="search"

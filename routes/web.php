@@ -12,8 +12,7 @@
 */
 
 Route::get('/', function () {
-//    return redirect('https://zpevnik.proscholy.cz');
-    return view('welcome');
+    return view('index');
 });
 
 Route::get('/app-download', function () {
@@ -22,10 +21,6 @@ Route::get('/app-download', function () {
 
 Route::get('/join', function () {
     return redirect('https://join.slack.com/t/proscholy/shared_invite/zt-kffcuuwj-Xd4FTtv7Dp2~W9hGWu_2xQ');
-});
-
-Route::get('/public', function () {
-   return view('index');
 });
 
 
