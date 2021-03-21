@@ -36,7 +36,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
     <div class="container">
         <a class="navbar-brand"
-           href="#">
+           href="/">
             <img src="https://proscholy.atlassian.net/rest/servicedesk/1/customer/viewport-resources/portal-logo/1/2"
                  height="50px" style="box-shadow: none">
             ProScholy.cz</a>
