@@ -120,7 +120,7 @@
                     <p>Chceme být zázemím a pomocníkem pro všechny, kteří se chtějí modlit hudbou.
                         Pro scholy, kapely, varhaníky, chrámové hudebníky, zpěváky, vedoucí chval i společenství.</p>
 
-                    <a class="btn btn-primary mt-2">Přidat se do týmu</a>
+                    <a class="btn btn-primary mt-2" href="https://proscholy.atlassian.net/servicedesk/customer/portal/1/group/7/create/24">Přidat se do týmu</a>
                 </div>
 
                 <div class="col-md-6">
