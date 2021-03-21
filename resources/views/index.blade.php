@@ -35,7 +35,7 @@
                                 </a>
                                 <a href="//zpevnik.proscholy.cz" class="link-title mt-3 px-3">Zpěvník</a>
                                 <p class="mt-3 font-weight-light px-3">Zpěvník přichází na pomoc všem scholám,
-                                    křesťanským kapelám, společenstvím a ostatním, kdo se chtějí modlit hudbou!</p>
+                                    křesťanským kapelám, společenstvím a všem, kdo se chtějí modlit hudbou!</p>
                             </div>
                         </div>
                         <div class="col-6 col-sm text-left">
