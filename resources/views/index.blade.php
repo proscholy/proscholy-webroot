@@ -32,7 +32,7 @@
                         <br>Vytváříme zázemí, které může tuto důležitou službu usnadnit.</p>
 
                     <div class="row">
-                        <div class="col-md-6 mb-md-0 mb-4 text-left">
+                        <div class="col-md mb-md-0 mb-4 text-left">
                             <div class="card h-100">
                                 <a href="//zpevnik.proscholy.cz">
                                     <img src="{{asset('/images/zpevnik.png')}}" width="100%" style="box-shadow: none">
@@ -42,7 +42,7 @@
                                     křesťanským kapelám, společenstvím a všem, kdo se chtějí modlit hudbou!</p>
                             </div>
                         </div>
-                        <div class="col-md-6 mb-md-0 mb-4 text-left">
+                        <div class="col-md mb-md-0 mb-4 text-left">
                             <div class="card h-100">
                                 <a href="//regenschori.cz">
                                     <img src="{{asset('/images/regenschori.png')}}"
@@ -54,7 +54,7 @@
                                     hudby pro vedoucí schol i pro varhaníky.</p>
                             </div>
                         </div>
-                        <div class="col-md-6 text-left">
+                        <div class="col-md text-left">
                             <div class="card h-100">
                                 <a href="//proscholy.atlassian.net/servicedesk/customer/portals">
                                     <img src="{{asset('/images/podpora2.png')}}"
