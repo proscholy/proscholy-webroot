@@ -74,8 +74,9 @@
     </div>
 </nav>
 
-<div class="bg-blue-light py-3 text-center">
-    Spouštíme hudební databázi Regenschori pro vedoucí schol a varhaníky! <a href="//regenschori.cz">Vyzkoušet beta verzi.</a>
+<div class="bg-blue-light py-3 px-3 text-center">
+    Spouštíme hudební databázi Regenschori pro vedoucí schol a&nbspvarhaníky! <a href="//regenschori.cz">Vyzkoušet beta
+        verzi.</a>
 </div>
 
 @yield('content')

@@ -3,7 +3,7 @@
 @section('content')
     <section class="bg-white">
         <div class="container my-5">
-            <div class="row py-3">
+            <div class="row py-3 justify-content-center">
                 <div class="col-12 col-md-7">
 
                     <p class="h1 mb-5">Víme, kolik práce dá sloužit <span class="text-primary">Bohu</span> darem
@@ -14,7 +14,7 @@
                         že Vám v tom budeme <span class="text-primary">pomáhat</span> jak umíme!</p>
                 </div>
 
-                <div class="col-12 col-md-5 pl-md-5">
+                <div class="col-10 col-md-5 pl-md-5 mt-md-0 mt-4">
                     <img src="{{asset('images/scholy.svg')}}" width="100%" style="box-shadow: none">
                 </div>
             </div>
@@ -32,7 +32,7 @@
                         <br>Vytváříme zázemí, které může tuto důležitou službu usnadnit.</p>
 
                     <div class="row">
-                        <div class="col-6 col-sm text-left">
+                        <div class="col-md-6 mb-md-0 mb-4 text-left">
                             <div class="card h-100">
                                 <a href="//zpevnik.proscholy.cz">
                                     <img src="{{asset('/images/zpevnik.png')}}" width="100%" style="box-shadow: none">
@@ -42,7 +42,7 @@
                                     křesťanským kapelám, společenstvím a všem, kdo se chtějí modlit hudbou!</p>
                             </div>
                         </div>
-                        <div class="col-6 col-sm text-left">
+                        <div class="col-md-6 mb-md-0 mb-4 text-left">
                             <div class="card h-100">
                                 <a href="//regenschori.cz">
                                     <img src="{{asset('/images/regenschori.png')}}"
@@ -54,7 +54,7 @@
                                     hudby pro vedoucí schol i pro varhaníky.</p>
                             </div>
                         </div>
-                        <div class="col-6 col-sm text-left">
+                        <div class="col-md-6 text-left">
                             <div class="card h-100">
                                 <a href="//proscholy.atlassian.net/servicedesk/customer/portals">
                                     <img src="{{asset('/images/podpora2.png')}}"
@@ -86,7 +86,7 @@
                     <p>Chceme být zázemím a pomocníkem pro všechny, kteří se chtějí modlit hudbou.
                         Pro scholy, kapely, varhaníky, chrámové hudebníky, zpěváky, vedoucí chval i společenství.</p>
 
-                    <a class="btn btn-primary mt-2" href="https://proscholy.atlassian.net/servicedesk/customer/portal/1/group/7/create/24">Přidat se do týmu</a>
+                    <a class="btn btn-primary mt-2 mb-md-0 mb-4" href="https://proscholy.atlassian.net/servicedesk/customer/portal/1/group/7/create/24">Přidat se do týmu</a>
                 </div>
 
                 <div class="col-md-6">
@@ -103,7 +103,7 @@
             <h2>Křesťanská hudba na Spotify</h2>
             <p>Pokud máte Spotify, můžete si přidat některý z playlistů, které po vás sestavujeme.</p>
 
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-md-4">
                     <iframe src="https://open.spotify.com/embed/playlist/77giBfU90a4MtpjS5MXDPA"
                             width="100%"
@@ -113,7 +113,7 @@
                             allowtransparency="true"
                             allow="encrypted-media"></iframe>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 d-md-block d-none">
                     <iframe src="https://open.spotify.com/embed/playlist/5pHaZrXtJxXumImNqzdK0t"
                             width="100%"
                             height="380"
@@ -122,7 +122,7 @@
                             allowtransparency="true"
                             allow="encrypted-media"></iframe>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 d-md-block d-none">
                     <iframe src="https://open.spotify.com/embed/playlist/0ODeNpqLvYzu4MHhhUsOYb"
                             width="100%"
                             height="380"
